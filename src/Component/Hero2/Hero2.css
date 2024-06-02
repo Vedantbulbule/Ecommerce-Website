@@ -1,0 +1,76 @@
+.Hero2 {
+    height: 100vh;
+    background: linear-gradient(180deg, rgb(143, 109, 186), #e1ffea22 70%);
+    display: flex;
+    margin-top: 230px;
+}
+
+.Hero2-left-Second {
+    display: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding-left: 180px;
+    line-height: 1.1;
+}
+
+.Hero2-left-Second h1 {
+    color: #090909;
+    font-size: 96px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: rgb(168, 58, 173);
+}
+
+.Hero2_left_Second h3 {
+    color: #090909;
+    font-size: 170px;
+    font-weight: 800;
+}
+
+.Hero2_hand {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.Hero2_hand h3 {
+    color: #090909;
+    font-size: 46px;
+    font-weight: 800;
+}
+
+.GN h2 {
+    color: #090909;
+    font-size: 46px;
+    font-weight: 800;
+    gap: 20px;
+    line-height: 150%;
+}
+
+.Hero2_hand img {
+    width: 90px;
+}
+
+.Latest-Btn-Second {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 310px;
+    height: 70px;
+    border-radius: 75px;
+    margin-top: 30px;
+    background: turquoise;
+    color: aliceblue;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.Hero2-Right-Second {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

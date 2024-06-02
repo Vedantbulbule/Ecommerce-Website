@@ -1,0 +1,66 @@
+.Items2 {
+    width: 350px;
+    background-color: rgb(244, 221, 245);
+    box-shadow: 3px 3px 6px grey;
+    border-radius: 30px;
+}
+
+.ten {
+    border-radius: 30px;
+}
+
+.Items2 P {
+    color: orangered;
+    font-weight: 600;
+    font-size: 19px;
+    padding-left: 13px;
+}
+
+.Items2_Price {
+    display: flex;
+    gap: 20px;
+}
+
+.Items2_Price_Old {
+    color: brown;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: line-through;
+}
+
+.Items2_Price_New {
+    color: red;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 100px;
+}
+
+.Items2:hover {
+    transform: scale;
+    transition: 0.6s;
+}
+
+.bottom1 {
+    display: flex;
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.bottom1 button {
+    margin-left: 20px;
+    background-color: orangered;
+    border-radius: 20px;
+    width: 90px;
+}
+
+.bottom1 img {
+    padding-left: 40px;
+}
+
+.bottom1 p {
+    padding-top: 10px;
+    font-size: 17px;
+    color: orangered;
+    font-weight: 600;
+}
